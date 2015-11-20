@@ -29,7 +29,7 @@ version.properties
 /.classpath
 /.project
 /.settings/
-/eclipse/
+#/eclipse/
 /debug/
 *.lock
 /.metadata/
