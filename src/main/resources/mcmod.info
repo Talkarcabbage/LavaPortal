@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lavaportal",
+  "name": "Lava Portal",
+  "description": "Adds lava portals. Portals are created in a 4x4 structure with a portal block on each corner and obsidian connecting them. Place all four down, place obsidian between them to make a frame, then right click one to create a 2x2 source of infinite lava.",
+  "version": "1.2.0",
+  "mcversion": "1.7.10-10.13.4.1448-1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Talkarcabbage"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
