@@ -27,7 +27,7 @@ public class LavaPortalBlockEntity extends TileEntity{
 			tickCounter = 0;
 		}
 		if (validityTickCounter++ > 40) {
-			LavaPortal.portalBlock.verifyPortalTick(worldObj, xCoord, yCoord, zCoord, worldObj.getBlockMetadata(xCoord,yCoord,zCoord));
+			LavaPortalBlock.verifyPortalTick(worldObj, xCoord, yCoord, zCoord, worldObj.getBlockMetadata(xCoord,yCoord,zCoord));
 			validityTickCounter = 0;
 		}
 
